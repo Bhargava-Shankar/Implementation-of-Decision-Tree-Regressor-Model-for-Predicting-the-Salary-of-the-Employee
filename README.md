@@ -8,10 +8,10 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Initialize a decision tree structure.
+2.Split data recursively based on features to minimize variance or mean squared error.
+3.Stop splitting when a predefined stopping criterion is met (e.g., maximum depth, minimum samples per leaf).
+4.Predict the average target value of the samples in each leaf node.
 
 ## Program:
 ```python
